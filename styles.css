@@ -6,6 +6,10 @@
 	color: #FAD7AF;
 }
 
+.skin2 {
+	color: #A47957;
+}
+
 .clothes1 {
 	color: #BDAECB;
 }
@@ -18,6 +22,10 @@
 	color: #731A20;
 }
 
+.clothes4 {
+	color: #71637D;
+}
+
 .wood1 {
 	color: #252120
 }
@@ -28,5 +36,13 @@
 
 .wood3 {
 	color: #613613
+}
+
+.metal {
+	color: #A9A2B1;
+}
+
+.white {
+	color: #FFFFFF;
 }
 
